@@ -1,22 +1,26 @@
-# projects-management
+# Project planner
 
-If you don't have node in your machine (https://nodejs.org/en). Version used for this project 20.17.0 LTS.
+This project run in a Node enviroment, if you don't have already insalled on your machine [Node Js](https://nodejs.org/en). Version used for this project 20.17.0 LTS. <br /> <br /> 
 
-Open terminal in root folder and run 'npm install'. This command will download all necessary files for this project.
-
-After the installation is finishd, type 'npm run database'. Spin-up a fake rest-full APi endpoint.
-
-Open a new terminal and type 'npm run serve'.
+For setup open the terminal and run the fallowing commands: 
 
 ## Project setup
 ```
 npm install
 ```
 
+### Spin-up a fake restAPI endpoint to act like a database
+```
+npm run database
+```
+   Next command need to run in a new terminal without closing the previous one
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+![imgage alt](image url)
+
+## Aditional commands
 
 ### Compiles and minifies for production
 ```
