@@ -18,7 +18,7 @@ npm run database
 ```
 npm run serve
 ```
-![imgage alt](image url)
+![imgage alt](https://github.com/fusion-git/vue-planner/blob/8f39806525b7765b6a9a98d273ab818e5ee93d88/Screenshot.png)
 
 ## Aditional commands
 
